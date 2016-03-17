@@ -164,7 +164,7 @@ This app will have just two components:
 * NewProfile: Form that allows the posting of a new profile to the database.
 
 Write out these components to the best of your ability using ES6 syntax when appropriate.
-For an example of a possible solution, see the [solution branch](https://github.com/r-walsh/es6-profiles/tree/solution) of this project.
+For an example of a possible solution, see the [solution branch](https://github.com/DevMountain/es6-profiles/tree/solution) of this project.
 
 ## Black Diamond:
 
